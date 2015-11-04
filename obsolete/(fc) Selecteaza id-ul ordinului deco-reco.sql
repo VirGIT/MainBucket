@@ -1,0 +1,1 @@
+select * from ordine_deconectare where nr = 1691 and tert_id = (select id from terti where cod like 'A1064') order by data desc;

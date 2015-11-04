@@ -1,0 +1,28 @@
+NOMENCLATOR :
+
+Directoarele se vor denumi sub forma :       xxxx-yyy.zz some sugestive name PERIOADA
+unde :
+1. xxxx - reprezinta id-ul perioadei (Ex.: 1001 pt. "Anul 2005" sau 1002 pentru "Ianuarie 2005")
+2. yyy - tip media (Ex.: 106 - Raster Image Files)
+3. zz - counter, default 01, incrementat cu 1
+4. some sugestive name - as is !
+5. PERIOADA - denumirea perioadei (Ex.: "Iulie 2007" sau "Anul 2012")
+
+OBS: Directoarele pot contine diferite extensii ale fisierelor continute dar nu diferite tipuri ale acestora.
+
+Exemplu : 1061-106.01 Maria (la mare) August 2009 
+
+
+
+Fisierele se vor denumi sub forma :       mmm.ccc.ddd-eee-pppp-zzzz
+unde :
+1. mmm - media
+2. ccc - categorie media
+3. ddd - detaliu media
+4. eee - extensie fisier
+5. pppp - perioada
+6. zzzz - counter, default 0001, incrementat cu 1
+
+Exemplu : 101.102.102-147-1086-0003, adica, avem categoria "FAmilia", subcategoria "Anastasia", detaliul "Membri ai familiei",
+                                                 extensia (*.jpg), perioada "Iulie 2011", si este a treia fotografie din director !
+                                                       
